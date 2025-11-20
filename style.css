@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #222;
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+canvas {
+    background: #fff;
+    border: 3px solid #444;
+    display: none;
+}
+
+.screen {
+    text-align: center;
+}
+
+button {
+    padding: 12px 25px;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 8px;
+    border: none;
+    background: #4CAF50;
+    color: white;
+}
+
+h1 {
+    margin-bottom: 20px;
+}
