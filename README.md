@@ -1,4 +1,4 @@
-# Game Of The CCircle
+# Game Of The Circle
 
 Jogo simples em HTML, CSS e JavaScript. O objetivo é clicar no círculo antes que o tempo acabe. Ele muda de posição a cada segundo.
 
